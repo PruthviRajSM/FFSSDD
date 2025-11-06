@@ -1,0 +1,6 @@
+com\example\lab4\EmailService.class
+com\example\lab4\DependencyInjectionApplication.class
+com\example\lab4\SMSService.class
+com\example\lab4\MessageService.class
+com\example\lab4\NotificationService.class
+com\example\lab4\AppConfig.class

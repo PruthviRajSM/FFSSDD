@@ -1,0 +1,4 @@
+com\example\lab5\AppConfig.class
+com\example\lab5\DependentBean.class
+com\example\lab5\BeanInjection.class
+com\example\lab5\MyBean.class
